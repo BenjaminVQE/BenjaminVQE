@@ -1,4 +1,4 @@
-<sup>Développeur Full Stack Junior</sup>
+># Développeur Full Stack Junior
 
 ### GIT HUB STATS
 
