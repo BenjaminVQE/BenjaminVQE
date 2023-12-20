@@ -1,6 +1,13 @@
 ># Développeur Full Stack Junior
 
-### GIT HUB STATS
+## Tech Stack 
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
+/>
+
+## Portfolio
+> En cours...
 
 <picture>
   <source
