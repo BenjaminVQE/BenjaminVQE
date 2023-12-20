@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-GIT HUB STATS
+### GIT HUB STATS
 
 <picture>
   <source
