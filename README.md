@@ -1,6 +1,11 @@
 ># Développeur Full Stack Junior ![Cover](https://github.com/BVCoca/BVCoca/blob/main/img/penguin.png)
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
+/>
 
 ## Tech Stack 
+<i class="ci ci-nuxtjs ci-5x"></i>
 
 
 ## Portfolio
