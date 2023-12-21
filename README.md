@@ -1,7 +1,7 @@
 ># Développeur Full Stack Junior ![Cover](https://github.com/BVCoca/BVCoca/blob/main/img/penguin.png)
 
 ## Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,react)]()
 
 ## Portfolio
 > En cours...
