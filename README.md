@@ -1,11 +1,7 @@
 ># Développeur Full Stack Junior
 
 ## Tech Stack 
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
-/>
-<i class="ci ci-spotify ci-2x"></i>
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Portfolio
 > En cours...
