@@ -1,4 +1,4 @@
-## Salut ! je m'appelle Benjamin mais c'est plus simple Ben  ![Cover](https://camo.githubusercontent.com/049ccbafc484ffa8bc2ca3be89dba5467fb8c664008659c4252b59d99bd9d676/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966)  
+# Salut ! je m'appelle Benjamin mais c'est plus simple Ben  ![Cover](https://camo.githubusercontent.com/049ccbafc484ffa8bc2ca3be89dba5467fb8c664008659c4252b59d99bd9d676/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966)  
 >Développeur Full Stack Junior
 
 ![Cover](https://github.com/BVCoca/BVCoca/blob/main/img/benCode.png)
