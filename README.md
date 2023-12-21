@@ -1,4 +1,4 @@
-># Développeur Full Stack Junior ![Cover](https://github.com/BVCoca/BVCoca/blob/main/img/penguin.png)
+Salut ! je m'appelle Benjamin mais c'est plus simple Ben ![Cover](https://github.com/BVCoca/BVCoca/blob/main/img/penguin.png)  je suis > Développeur Full Stack Junior 
 
 ## Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,react,php,symfony,ts,)]()
