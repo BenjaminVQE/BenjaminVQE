@@ -4,9 +4,7 @@ __Salut ! je m'appelle Benjamin mais c'est plus simple Ben__  ![Cover](https://c
 ![Cover](https://github.com/BVCoca/BVCoca/blob/main/img/benCode.png)
 
 ## Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,react,nextjs,ts)]()  ‎
-[![My Skills](https://skillicons.dev/icons?i=php,symfony,mysql,git,wordpress,ps)]()
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,react,nextjs,ts,php,symfony,mysql,git,wordpress,ps&per-line=4)]()  ‎
 ## Portfolio
 > En cours...
 
