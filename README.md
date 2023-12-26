@@ -1,5 +1,5 @@
 
-<div style="text-align:center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=700&color=0060FF&background=FFFFFF00&random=false&width=435&lines=D%C3%A9veloppeur+Web+Junior"></div>
+<div style="text-align:center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=700&color=0060FF&background=FFFFFF00&random=false&width=435&lines=D%C3%A9veloppeur+Web+Junior" /></div>
 ![Cover](https://github.com/BVCoca/BVCoca/blob/main/img/benCode.png)
 
 ## Tech Stack 
