@@ -1,5 +1,4 @@
-
-<div style="text-align:center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=700&color=0060FF&background=FFFFFF00&random=false&width=435&lines=D%C3%A9veloppeur+Web+Junior" /></div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=700&color=0060FF&background=FFFFFF00&random=false&width=435&lines=D%C3%A9veloppeur+Web+Junior)](https://git.io/typing-svg)
 
 ![Cover](https://github.com/BVCoca/BVCoca/blob/main/img/benCode.png)
 
