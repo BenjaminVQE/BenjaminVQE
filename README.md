@@ -6,8 +6,9 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,react,ts,php,symfony,mysql,git,ps&per-line=4)]()  ‎
 ![Cover](https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif)
 ## Portfolio
-![Cover](https://github.com/BVCoca/BVCoca/blob/main/img/portfoliologo.png)
-
+<a href="https://bvcoca.github.io/portfolio/">
+<img src="https://github-readme-stats.vercel.app/api?username=bvcoca&show_icons=true" />
+</a>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=bvcoca&show_icons=true&theme=dark"
