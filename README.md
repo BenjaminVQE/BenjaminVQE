@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,react,ts,php,symfony,mysql,git,ps&per-line=4)]()  ‎
 ![Cover](https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif)
 ## Portfolio
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79418&random=false&width=435&lines=En+cours+.+.+.)](https://git.io/typing-svg)
+![Cover](https://github.com/BVCoca/BVCoca/blob/main/img/portfoliologo.png)
 
 <picture>
   <source
