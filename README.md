@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=700&color=0060FF&background=FFFFFF00&random=false&width=435&lines=D%C3%A9veloppeur+Web+Junior)](https://git.io/typing-svg)
 
-![Cover](https://github.com/BVCoca/BVCoca/blob/main/img/benCode.png)
+![Cover](https://github.com/BenjaminVQE/BenjaminVQE/blob/main/img/benCode.png)
 
 ## Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,react,ts,php,symfony,mysql,git,docker&per-line=4)]()  ‎
